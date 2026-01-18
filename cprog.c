@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("Thhis is my first git work");
+	printf("This is my first git work");
 	return 0;
 }
